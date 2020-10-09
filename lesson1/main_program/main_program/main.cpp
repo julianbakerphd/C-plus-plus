@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  first_program
+//  main_program
 //
 //  Created by A to Z Coding on 10/9/20.
 //
